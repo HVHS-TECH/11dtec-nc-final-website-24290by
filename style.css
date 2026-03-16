@@ -1,0 +1,18 @@
+body {
+    background-color: lightblue;
+  }
+
+  background-color: l;
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+
+main {background-color: bisque;}
+
+head {background-color: blue;}

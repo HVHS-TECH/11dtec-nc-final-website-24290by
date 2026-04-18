@@ -28,3 +28,8 @@ header {background-color:  bisque;border-radius: 10px;}
 main {background-color:  bisque; border-radius: 10px;}
 
 
+p {
+  background-color: #7b6767;
+  padding: 15px;
+  border-left: 5px solid #333;
+}

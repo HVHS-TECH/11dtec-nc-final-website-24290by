@@ -27,9 +27,7 @@ background-color: #111;
 header {background-color:  bisque;border-radius: 10px;}
 main {background-color:  bisque; border-radius: 10px;}
 
-
 p {
-  background-color: #ffd6d6;
+  background-color: #a9a9a9a0;
   padding: 15px;
-  border-left: 5px solid #333;
 }

@@ -44,4 +44,6 @@ h1 {
   transition; scale 400ms;
 }
 
-
+img:hover{
+  transform: scale(1.05);
+}

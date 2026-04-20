@@ -36,15 +36,6 @@ h1 {
   padding: 15px;
 }
 
-.zoom-effect {
-  width: 300px;
-  /* Smoothly animate the transform over 0.3 seconds */
-  transition: transform 0.3s ease; 
-}
 
-.zoom-effect:hover {
-  /* Scale the image to 1.2x its original size */
-  transform: scale(1.2); 
-}
 
 

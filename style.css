@@ -47,3 +47,7 @@ h1 {
 img:hover{
   transform: scale(1.05);
 }
+
+img {
+  border: 5px solid #555;
+}
